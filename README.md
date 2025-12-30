@@ -1,6 +1,6 @@
 # 👋 Hey, I'm MimoAlexer!
 
-Im a 14-year-old developer who loves building and exploring all kinds of games and systems. I'm especially into:
+Im a junior developer who loves building and exploring all kinds of games and systems. I'm especially into:
 
 - 🛠️ Programming in **Rust**, **C#**, **Java**, **Etc**.
 - 🏰 Medieval games and uhmm idk Cs2(kinda based🗿)
