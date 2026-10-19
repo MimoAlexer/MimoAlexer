@@ -1,44 +1,55 @@
-# Hey, I'm Alex 👋
+# Alex / MimoAlexer
 
-I build things with Java, Rust, and C# — from Minecraft infrastructure to game development.
+I build software with a focus on **Rust, performance, and thoughtful interfaces**.
 
-Currently working on a **Velocity fork**, focused on improving performance for my own Minecraft PvP network.
+Interested in concurrent systems, software architecture, graphics, and developer tools.
 
-## What I'm into
+## Currently building: OpenTrack
 
-- **Minecraft development** — proxies, server infrastructure, and performance.
-- **Game development** — experimenting with Bevy and Godot.
-- **Self-hosting** — Raspberry Pi projects, networking, and Pi-hole.
+[**OpenTrack**](https://github.com/MimoAlexer/OpenTrack) is my self-hosted alternative to Linear, bringing issue tracking, rich documents, and team collaboration into one workspace.
 
-## Languages & tools
+Built with **Rust, Axum, PostgreSQL, React, TypeScript, and Tauri**, with a shared interface for the browser and Linux desktop.
 
-**Languages**
+Actively developing its workflows, collaboration features, and broader project-management capabilities.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+## Tech stack
 
-**Frameworks & engines**
+### Languages
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Bevy](https://img.shields.io/badge/Bevy-232326?style=flat&logo=bevy&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-181717?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**Infrastructure**
+### Web & desktop
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pihole&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=black)
+![Axum](https://img.shields.io/badge/Axum-181717?style=for-the-badge&logo=rust&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-<details>
-<summary>GitHub stats</summary>
+### Data & tooling
 
-<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TOML](https://img.shields.io/badge/TOML-9C4121?style=for-the-badge&logo=toml&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MimoAlexer&theme=github_dark&hide_border=true&show_icons=true)
+### Graphics & engines
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MimoAlexer&theme=github_dark&hide_border=true&layout=compact)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![Bevy](https://img.shields.io/badge/Bevy-232326?style=for-the-badge&logo=bevy&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
-</details>
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MimoAlexer&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
+
+![GitHub streak](https://nirzak-streak-stats.vercel.app/?user=MimoAlexer&theme=github-dark-blue&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MimoAlexer&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
